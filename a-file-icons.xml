@@ -1,0 +1,8 @@
+<application>
+  <component name="AtomFileIconsConfig">
+    <option name="monochromeColor" value="546e7a" />
+    <option name="arrowsStyle" value="Darcula" />
+    <option name="accentColor" value="84ffff" />
+    <option name="themedColor" value="6e78a0" />
+  </component>
+</application>
