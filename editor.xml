@@ -9,9 +9,14 @@
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="Blade" value="true" />
+      </map>
+    </option>
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
