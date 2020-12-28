@@ -5,6 +5,7 @@
     <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
   </HTMLCodeStyleSettings>
   <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_PARAM_SPACES_BETWEEN_TAG_AND_TYPE" value="2" />
     <option name="PHPDOC_PARAM_SPACES_BETWEEN_TYPE_AND_NAME" value="2" />
@@ -39,10 +40,5 @@
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
-  </codeStyleSettings>
-  <codeStyleSettings language="Vue">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
